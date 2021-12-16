@@ -6,7 +6,7 @@ body{
     text-align: center;
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto;
 }
 
 .button {
@@ -19,5 +19,9 @@ body{
     border: none;
     font-family: "Inter", sans-serif;
     background: linear-gradient(90deg, #201191, #ff9f00);
-    background-size: 600%;        
+    background-size: 500%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
   }
