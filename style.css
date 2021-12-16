@@ -8,3 +8,16 @@ body{
     margin-left: auto;
     margin-right: auto 
 }
+
+.button {
+    color: #fff;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 30px;
+    display: inline-block;
+    border: none;
+    font-family: "Inter", sans-serif;
+    background: linear-gradient(90deg, #201191, #ff9f00);
+    background-size: 600%;        
+  }
