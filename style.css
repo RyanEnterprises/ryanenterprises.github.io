@@ -9,7 +9,7 @@ body{
     margin-right: auto;
 }
 
-.button {
+.button1 {
     color: #fff;
     padding: 20px;
     padding-left: 30px;
@@ -25,3 +25,21 @@ body{
     margin-left: auto;
     margin-right: auto;    
   }
+
+  .button2 {
+    color: #fff;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 30px;
+    display: inline-block;
+    border: none;
+    font-family: "Inter", sans-serif;
+    background: linear-gradient(90deg, hsla(245, 75%, 41%, 1), hsla(345, 75%, 41%, 1));
+    background-size: 600%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;          
+  }
+
