@@ -6,5 +6,40 @@ body{
     text-align: center;
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto;
 }
+
+.button1 {
+    color: #fff;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 30px;
+    display: inline-block;
+    border: none;
+    font-family: "Inter", sans-serif;
+    background: linear-gradient(90deg, #201191, #ff9f00);
+    background-size: 300%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+  }
+
+  .button2 {
+    color: #fff;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 30px;
+    display: inline-block;
+    border: none;
+    font-family: "Inter", sans-serif;
+    background: linear-gradient(90deg, hsla(245, 75%, 41%, 1), hsla(345, 75%, 41%, 1));
+    background-size: 125%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;          
+  }
+
